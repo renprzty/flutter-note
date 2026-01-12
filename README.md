@@ -1,10 +1,10 @@
-# 📝 Flutter Simple CRUD Notes App
+# Flutter Simple CRUD Notes App
 
-Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemonstrasikan operasi dasar **CRUD** (Create, Read, Update, Delete). Project ini cocok sebagai referensi pembelajaran struktur data dan navigasi antar layar di Flutter.
+Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemonstrasikan operasi dasar **CRUD** (Create, Read, Update, Delete).
 
 ---
 
-## 🚀 Fitur Utama
+## Fitur Utama
 
 * **Create**: Menambahkan catatan baru (Judul & Isi).
 * **Read**: Menampilkan daftar catatan dalam bentuk List Card yang rapi.
@@ -12,19 +12,19 @@ Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemons
 * **Delete**: Menghapus catatan dari daftar.
 * **Validation**: Form dilengkapi dengan validasi input (tidak boleh kosong).
 
-## 🛠️ Tech Stack yang Digunakan
+## Tech Stack yang Digunakan
 
 * **Framework**: [Flutter](https://flutter.dev/)
 * **Language**: [Dart](https://dart.dev/)
 * **UI Style**: Material Design 3
 
-## 📸 Screenshots
+## Screenshots
 
 | Home Screen (List) | Form Screen (Add/Edit) |
 |---|---|
 | ![Home](screenshots/1.png) | ![Form](screenshots/3.png) |
 
-## ⚙️ Cara Menjalankan Project
+## Cara Menjalankan Project
 
 1.  **Clone repository ini:**
     ```bash
@@ -44,4 +44,3 @@ Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemons
     ```
 
 ---
-Dibuat dengan ❤️ untuk pembelajaran Flutter.
