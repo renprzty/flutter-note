@@ -22,9 +22,7 @@ Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemons
 
 | Home Screen (List) | Form Screen (Add/Edit) |
 |---|---|
-| ![Home](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![Form](https://via.placeholder.com/200x400.png?text=Form+Screen) |
-
-> *Tips: Ganti placeholder di atas dengan screenshot asli aplikasi Anda nanti.*
+| ![Home](screenshots/1.png) | ![Form](screenshots/3.png) |
 
 ## ⚙️ Cara Menjalankan Project
 
