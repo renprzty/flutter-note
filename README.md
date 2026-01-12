@@ -30,7 +30,7 @@ Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemons
 
 1.  **Clone repository ini:**
     ```bash
-    git clone [https://github.com/USERNAME/flutter-crud-app.git](https://github.com/USERNAME/flutter-crud-app.git)
+    git clone https://github.com/renprzty/flutter-note.git
     ```
 2.  **Masuk ke direktori project:**
     ```bash
