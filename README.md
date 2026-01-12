@@ -1,16 +1,49 @@
-# my_crud_app
+# 📝 Flutter Simple CRUD Notes App
 
-A new Flutter project.
+Aplikasi Catatan sederhana yang dibangun menggunakan **Flutter** untuk mendemonstrasikan operasi dasar **CRUD** (Create, Read, Update, Delete). Project ini cocok sebagai referensi pembelajaran struktur data dan navigasi antar layar di Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+* **Create**: Menambahkan catatan baru (Judul & Isi).
+* **Read**: Menampilkan daftar catatan dalam bentuk List Card yang rapi.
+* **Update**: Mengedit catatan yang sudah ada.
+* **Delete**: Menghapus catatan dari daftar.
+* **Validation**: Form dilengkapi dengan validasi input (tidak boleh kosong).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Framework**: [Flutter](https://flutter.dev/)
+* **Language**: [Dart](https://dart.dev/)
+* **UI Style**: Material Design 3
+
+## 📸 Screenshots
+
+| Home Screen (List) | Form Screen (Add/Edit) |
+|---|---|
+| ![Home](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![Form](https://via.placeholder.com/200x400.png?text=Form+Screen) |
+
+> *Tips: Ganti placeholder di atas dengan screenshot asli aplikasi Anda nanti.*
+
+## ⚙️ Cara Menjalankan Project
+
+1.  **Clone repository ini:**
+    ```bash
+    git clone [https://github.com/USERNAME/flutter-crud-app.git](https://github.com/USERNAME/flutter-crud-app.git)
+    ```
+2.  **Masuk ke direktori project:**
+    ```bash
+    cd flutter-crud-app
+    ```
+3.  **Ambil dependencies:**
+    ```bash
+    flutter pub get
+    ```
+4.  **Jalankan aplikasi:**
+    ```bash
+    flutter run
+    ```
+
+---
+Dibuat dengan ❤️ untuk pembelajaran Flutter.
